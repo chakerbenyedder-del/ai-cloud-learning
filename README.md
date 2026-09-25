@@ -13,3 +13,4 @@ This repository documents my 90-day learning journey in:
 
 Build practical skills and a portfolio for AI & Cloud Transformation roles.
 
+L'intégration de l'IA dans les entreprises va révolutionner le management et la gestion
